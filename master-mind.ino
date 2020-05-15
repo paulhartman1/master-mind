@@ -19,26 +19,6 @@ const byte idPins[4][3] = {
   {31,32,33}
 };
 
-const byte RED = 0;
-const byte GREEN = 1;
-const byte BLUE = 2;
-
-const int red_pin_1 = 22;
-const int green_pin_1 = 23;
-const int blue_pin_1 = 24;
-
-const int red_pin_2 = 25;
-const int green_pin_2 = 26;
-const int blue_pin_2 = 27;
-
-const int red_pin_3 = 28;
-const int green_pin_3 = 29;
-const int blue_pin_3 = 30;
-
-const int red_pin_4 = 31;
-const int green_pin_4 = 32;
-const int blue_pin_4 = 33;
-
 int counter = 0;
 
 char game_value;
